@@ -1,0 +1,50 @@
+No. : 1
+No. Control: 13400493
+Nombre:  Jose Rodrigo Serrano Ayon
+Calificación:  100
+
+No. : 2
+No. Control: 13400494
+Nombre:  Eduardo Luis Silva Camacho
+Calificación:  90
+
+No. : 3
+No. Control: 13400400
+Nombre:  Genaro Yair Enciso Luna
+Calificación:  80
+
+No. : 4
+No. Control: 13400497
+Nombre:  Holliver Eduardo Valdez Lopez
+Calificación:  85
+
+No. : 5
+No. Control: 13400498
+Nombre:  Julio Cesar Valencia Zavala
+Calificación:  70
+
+No. : 6
+No. Control: 14400487
+Nombre:  Guillermo Zamorano Alcala
+Calificación:  75
+
+No. : 7
+No. Control: 14400480
+Nombre:  Joaquin Alejandro Rodriguez
+Calificación:  80
+
+No. : 8
+No. Control: 14400400
+Nombre:  Guillermo Guadalupe Reyes Guerrero
+Calificación:  87
+
+No. : 9
+No. Control: 13400483
+Nombre:  Jose Antonio Rodriguez
+Calificación:  98
+
+No. : 10
+No. Control: 13400476
+Nombre:  Miguel Angel Vega Hermosillo
+Calificación:  93
+
